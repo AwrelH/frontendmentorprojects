@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+
+ .attribution { font-size: 11px; text-align: center; }
+ .attribution a { color: hsl(228, 45%, 44%); }
+
+ /*
+ Colors
+ */
+.container {
+   margin-top: 150px;
+}
+ h1 {
+    font-weight: 700;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 23px;
+ }
+
+
+.card {
+   padding-top: 10px;
+   border-radius: 20px;
+}
+.card-text {
+   margin: 40px auto;
+   max-width: 330px;
+}
+.card-cont, .cont1, .cont  {
+   max-width: 330px;
+  
+}
+p {
+   color: hsl(220, 15%, 55%); 
+   margin: 0 10px;
+   margin-bottom: 40px;
+   text-align: center;
+}
